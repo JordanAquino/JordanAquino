@@ -21,6 +21,7 @@
   <img align="center" alt="Jordan-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Jordan-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Jordan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="right" alt-"Jordan-yoda" src="https://cdn.discordapp.com/attachments/835952012122128414/1053407530195374140/smile.gif"/>
 
 
   </div>
