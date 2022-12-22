@@ -1,4 +1,4 @@
-### Iae Pivete! Eu sou o Jordan Aquino
+### Iae Pivete! Eu sou Jordan Aquino
 
 
 - 💻 Apaixonado por tecnologia
