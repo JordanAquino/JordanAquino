@@ -5,8 +5,8 @@
 - 📚 Estudante Sistemas da Informação 5/9
 
 <div align="center">
-  <a href="https://github.com/JordS2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordS2&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JordanAquino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordanAquino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAquino&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
@@ -21,7 +21,7 @@
   <img align="center" alt="Jordan-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Jordan-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Jordan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt-"Jordan-yoda" height="180" width="180" src="https://cdn.discordapp.com/attachments/835952012122128414/1053409979031355392/eu.gif"/>
+  <img align="right" alt-"Jordan-yoda" height="180" width="180" src="https://cdn.discordapp.com/attachments/835952012122128414/1053409979031355392/eu.gif" />
 
 
   </div>
@@ -36,7 +36,7 @@
   <a href = "mailto:contato.jordanaquino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/jordan-aquino-903653214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/JordS2/JordS2/blob/output/github-contribution-grid-snake.svg)[![][black-shield]][black]
+  ![Snake animation](https://github.com/JordanAquino/JordanAquino/blob/output/github-contribution-grid-snake.svg)[![][black-shield]][black]
 
 [black]: http://github.com/psf/black
 [black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
