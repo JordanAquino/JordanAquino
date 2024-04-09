@@ -2,7 +2,7 @@
 
 
 - 💻 Apaixonado por tecnologia
-- 📚 Estudante Sistemas da Informação 6/9
+- 📚 Estudante Sistemas da Informação 7/9
 
 <div align="center">
   <a href="https://github.com/JordanAquino">
