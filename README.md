@@ -14,9 +14,9 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou **Analista de Sistemas na Construtora Stanza** (Aracaju/SE), onde cuido do ecossistema de sistemas internos , alguns em manutenção, outros em desenvolvimento ativo. Bacharel em **Sistemas de Informação pela Universidade Federal de Sergipe (UFS)**.
+Sou **Analista de Sistemas na Construtora Stanza** (Aracaju/SE), onde cuido do ecossistema de sistemas internos, alguns em manutenção, outros em desenvolvimento ativo. Bacharel em **Sistemas de Informação pela Universidade Federal de Sergipe (UFS)**.
 
-- 🏗️ Refatorando o **zProd**, sistema de produção da empresa, de **PHP para C#**, adotando uma **arquitetura microkernel** (kernel central + módulos plugin) para absorver outros sistemas como módulos
+- 🏗️ Refatorando o **zProd**, sistema de produção da empresa, de **PHP para C#**, adotando uma **arquitetura baseada em serviços**, para integrar outros sistemas da empresa como serviços
 - 🔗 Construindo **integrações** entre sistemas internos e o ERP (Sienge), usando o zProd como camada de proteção
 - ⚙️ Automatizando processos de RH, como a geração e envio de **cartas-proposta** com Pipefy + Automate + DocuSign
 - 🛡️ Interesse em **segurança da informação** e boas práticas de governança (proteção de branches, code review, padronização de banco)
@@ -26,7 +26,7 @@ Sou **Analista de Sistemas na Construtora Stanza** (Aracaju/SE), onde cuido do e
 
 I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible for the company's internal systems ecosystem. **B.Sc. in Information Systems** from the Federal University of Sergipe (UFS).
 
-- 🏗️ Refactoring **zProd**, the company's production system, from **PHP to C#** using a **microkernel architecture** (core kernel + plugin modules)
+- 🏗️ Refactoring **zProd**, the company's production system, from **PHP to C#** using a **service-based architecture**
 - 🔗 Building **integrations** between internal systems and the ERP (Sienge)
 - ⚙️ Automating HR workflows such as **offer letter** generation with Pipefy + Automate + DocuSign
 - 🛡️ Interested in **information security** and engineering governance
@@ -66,7 +66,7 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
 
 ## 🎓 Formação · Education
 
-- **Bacharelado em Sistemas de Informação** · B.Sc. in Information Systems , Universidade Federal de Sergipe (2021 – 2025)
+- **Bacharelado em Sistemas de Informação** · B.Sc. in Information Systems / Universidade Federal de Sergipe (2021 – 2025)
 
 ---
 
@@ -88,32 +88,50 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
 </details>
 
 <details>
-<summary><b>Segurança da Informação · Information Security , Solyd Offensive Security</b></summary>
+<summary><b>Segurança da Informação · Information Security / Solyd Offensive Security</b></summary>
 
-- Fundamentos de Criptografia e Senhas , jul/2025
-- Fundamentos da Segurança da Informação , jun/2025
-- Dominando o Linux e Shell Script para Pentesters , jun/2025
+- Fundamentos de Criptografia e Senhas / jul/2025
+- Fundamentos da Segurança da Informação / jun/2025
+- Dominando o Linux e Shell Script para Pentesters / jun/2025
 
 </details>
 
 <details>
 <summary><b>Outras · Others</b></summary>
 
-- Innovation Week , GVN (nov/2025)
-- Engenharia de Prompt · Prompting Responsável: Maximizar a IA no seu negócio , Santander Open Academy (jul/2025)
-- Rolê de Figma , Figma para Todos (fev/2023)
-- Universo Photoshop , brainstorm.academy (fev/2023)
-- [Noções de Computação Gráfica: Fotografia, Áudio, Vídeo e Web](https://www.ifbaiano.edu.br/unidades/alagoinhas/files/2017/11/No%C3%A7%C3%B5es-de-Computa%C3%A7%C3%A3o-Gr%C3%A1fica.pdf) , IF Baiano (nov/2017)
+- Innovation Week / GVN (nov/2025)
+- Engenharia de Prompt · Prompting Responsável: Maximizar a IA no seu negócio / Santander Open Academy (jul/2025)
+- Rolê de Figma / Figma para Todos (fev/2023)
+- Universo Photoshop / brainstorm.academy (fev/2023)
+- [Noções de Computação Gráfica: Fotografia, Áudio, Vídeo e Web](https://www.ifbaiano.edu.br/unidades/alagoinhas/files/2017/11/No%C3%A7%C3%B5es-de-Computa%C3%A7%C3%A3o-Gr%C3%A1fica.pdf) / IF Baiano (nov/2017)
 
 </details>
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JordanAquino&theme=tokyonight" alt="GitHub Stats"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JordanAquino&theme=tokyonight" alt="Top Languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=JordanAquino&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p>
-🗂️ Conta anterior · Previous account: @gvn-jordan
+## 📊 GitHub Stats
 
-Projetos desenvolvidos no período como Desenvolvedor Full Stack na GVN. Projects built during my time as a Full Stack Developer at GVN.
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JordanAquino&theme=tokyonight" alt="GitHub Stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JordanAquino&theme=tokyonight" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JordanAquino&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
-<p align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvn-jordan&theme=tokyonight" alt="GitHub Stats gvn-jordan"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gvn-jordan&theme=tokyonight" alt="Top Languages gvn-jordan"> </p>
-<p align="center"> 📫 <b>Vamos conversar? · Let's talk!</b><br> <a href="mailto:contato.jordanaquino@gmail.com">contato.jordanaquino@gmail.com</a> · <a href="https://www.linkedin.com/in/jordanaquino-si/">LinkedIn</a> </p>
+### 🗂️ Conta anterior · Previous account: [@gvn-jordan](https://github.com/gvn-jordan)
+
+Projetos desenvolvidos no período como Desenvolvedor Full Stack na GVN.
+*Projects built during my time as a Full Stack Developer at GVN.*
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvn-jordan&theme=tokyonight" alt="GitHub Stats gvn-jordan">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gvn-jordan&theme=tokyonight" alt="Top Languages gvn-jordan">
+</p>
+
+---
+
+<p align="center">
+  📫 <b>Vamos conversar? · Let's talk!</b><br>
+  <a href="mailto:contato.jordanaquino@gmail.com">contato.jordanaquino@gmail.com</a> · <a href="https://www.linkedin.com/in/jordanaquino-si/">LinkedIn</a>
+</p>
