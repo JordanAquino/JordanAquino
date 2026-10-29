@@ -14,7 +14,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou **Analista de Sistemas na Construtora Stanza** (Aracaju/SE), onde cuido do ecossistema de sistemas internos — alguns em manutenção, outros em desenvolvimento ativo. Bacharel em **Sistemas de Informação pela Universidade Federal de Sergipe (UFS)**.
+Sou **Analista de Sistemas na Construtora Stanza** (Aracaju/SE), onde cuido do ecossistema de sistemas internos , alguns em manutenção, outros em desenvolvimento ativo. Bacharel em **Sistemas de Informação pela Universidade Federal de Sergipe (UFS)**.
 
 - 🏗️ Refatorando o **zProd**, sistema de produção da empresa, de **PHP para C#**, adotando uma **arquitetura microkernel** (kernel central + módulos plugin) para absorver outros sistemas como módulos
 - 🔗 Construindo **integrações** entre sistemas internos e o ERP (Sienge), usando o zProd como camada de proteção
@@ -66,7 +66,7 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
 
 ## 🎓 Formação · Education
 
-- **Bacharelado em Sistemas de Informação** · B.Sc. in Information Systems — Universidade Federal de Sergipe (2021 – 2025)
+- **Bacharelado em Sistemas de Informação** · B.Sc. in Information Systems , Universidade Federal de Sergipe (2021 – 2025)
 
 ---
 
@@ -88,22 +88,22 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
 </details>
 
 <details>
-<summary><b>Segurança da Informação · Information Security — Solyd Offensive Security</b></summary>
+<summary><b>Segurança da Informação · Information Security , Solyd Offensive Security</b></summary>
 
-- Fundamentos de Criptografia e Senhas — jul/2025
-- Fundamentos da Segurança da Informação — jun/2025
-- Dominando o Linux e Shell Script para Pentesters — jun/2025
+- Fundamentos de Criptografia e Senhas , jul/2025
+- Fundamentos da Segurança da Informação , jun/2025
+- Dominando o Linux e Shell Script para Pentesters , jun/2025
 
 </details>
 
 <details>
 <summary><b>Outras · Others</b></summary>
 
-- Innovation Week — GVN (nov/2025)
-- Engenharia de Prompt · Prompting Responsável: Maximizar a IA no seu negócio — Santander Open Academy (jul/2025)
-- Rolê de Figma — Figma para Todos (fev/2023)
-- Universo Photoshop — brainstorm.academy (fev/2023)
-- [Noções de Computação Gráfica: Fotografia, Áudio, Vídeo e Web](https://www.ifbaiano.edu.br/unidades/alagoinhas/files/2017/11/No%C3%A7%C3%B5es-de-Computa%C3%A7%C3%A3o-Gr%C3%A1fica.pdf) — IF Baiano (nov/2017)
+- Innovation Week , GVN (nov/2025)
+- Engenharia de Prompt · Prompting Responsável: Maximizar a IA no seu negócio , Santander Open Academy (jul/2025)
+- Rolê de Figma , Figma para Todos (fev/2023)
+- Universo Photoshop , brainstorm.academy (fev/2023)
+- [Noções de Computação Gráfica: Fotografia, Áudio, Vídeo e Web](https://www.ifbaiano.edu.br/unidades/alagoinhas/files/2017/11/No%C3%A7%C3%B5es-de-Computa%C3%A7%C3%A3o-Gr%C3%A1fica.pdf) , IF Baiano (nov/2017)
 
 </details>
 
@@ -119,7 +119,7 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
   <img src="https://streak-stats.demolab.com?user=JordanAquino&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
-### 🗂️ Conta anterior · Previous account — [@gvn-jordan](https://github.com/gvn-jordan)
+### 🗂️ Conta anterior · Previous account , [@gvn-jordan](https://github.com/gvn-jordan)
 
 Projetos desenvolvidos no período como Desenvolvedor Full Stack na GVN.
 *Projects built during my time as a Full Stack Developer at GVN.*
