@@ -109,29 +109,11 @@ I'm a **Systems Analyst at Construtora Stanza** (Aracaju, Brazil), responsible f
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JordanAquino&theme=tokyonight" alt="GitHub Stats"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JordanAquino&theme=tokyonight" alt="Top Languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=JordanAquino&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p>
+🗂️ Conta anterior · Previous account: @gvn-jordan
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JordanAquino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAquino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JordanAquino&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+Projetos desenvolvidos no período como Desenvolvedor Full Stack na GVN. Projects built during my time as a Full Stack Developer at GVN.
 
-### 🗂️ Conta anterior · Previous account , [@gvn-jordan](https://github.com/gvn-jordan)
-
-Projetos desenvolvidos no período como Desenvolvedor Full Stack na GVN.
-*Projects built during my time as a Full Stack Developer at GVN.*
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gvn-jordan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats gvn-jordan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvn-jordan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages gvn-jordan">
-</p>
-
----
-
-<p align="center">
-  📫 <b>Vamos conversar? · Let's talk!</b><br>
-  <a href="mailto:contato.jordanaquino@gmail.com">contato.jordanaquino@gmail.com</a> · <a href="https://www.linkedin.com/in/jordanaquino-si/">LinkedIn</a>
-</p>
+<p align="center"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gvn-jordan&theme=tokyonight" alt="GitHub Stats gvn-jordan"> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gvn-jordan&theme=tokyonight" alt="Top Languages gvn-jordan"> </p>
+<p align="center"> 📫 <b>Vamos conversar? · Let's talk!</b><br> <a href="mailto:contato.jordanaquino@gmail.com">contato.jordanaquino@gmail.com</a> · <a href="https://www.linkedin.com/in/jordanaquino-si/">LinkedIn</a> </p>
